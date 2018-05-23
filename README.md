@@ -1,1 +1,2 @@
 # example
+We are together
